@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -17,5 +18,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
