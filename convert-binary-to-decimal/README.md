@@ -1,7 +1,5 @@
 ## Binary to Decimal
 
----
-
 ### Easy
 
 ---
@@ -44,3 +42,4 @@ The goal of the <code>binaryToDecimal</code> function is to convert this <strong
  - For every node, double the current value of num (this is analogous to shifting in binary representation). Then, add the binary digit of the current node.
  - Move to the next node and repeat until you've visited all nodes.
  - Return the value in num, which now represents the decimal value of the binary number in the linked list.
+
