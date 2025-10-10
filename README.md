@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
