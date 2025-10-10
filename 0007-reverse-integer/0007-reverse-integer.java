@@ -6,6 +6,8 @@ class Solution {
             int rem = num % 10;
             if(res > (Integer.MAX_VALUE - rem) / 10)
                 return 0;
+            if(res < (Integer.MIN_VALUE / 10))
+                return 0;
             res = res * 10 + rem;
             num = num / 10;
         }
