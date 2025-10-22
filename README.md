@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
 | ------- |
