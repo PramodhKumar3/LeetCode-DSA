@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
@@ -61,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
