@@ -14,6 +14,7 @@ class Solution {
     public boolean isAnagram(String s, String t) {
         if(!getStringFrequency(s).equals(getStringFrequency(t)))
             return false;
-        return true;
+        else
+            return true;
     }
 }
