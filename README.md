@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
