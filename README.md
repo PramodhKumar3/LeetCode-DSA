@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0342-power-of-four) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 ## Recursion
