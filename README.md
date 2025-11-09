@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 ## Recursion
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
