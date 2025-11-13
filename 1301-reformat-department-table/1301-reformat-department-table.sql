@@ -13,5 +13,5 @@ SELECT id,
               MAX(IF(month = "Nov", revenue, NULL)) AS Nov_Revenue,
                MAX(IF(month = "Dec", revenue, NULL)) AS Dec_Revenue
 FROM Department
-GROUP BY id
-ORDER BY id;
+GROUP BY id;
+# ORDER BY id;
