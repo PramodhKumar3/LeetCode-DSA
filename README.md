@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
