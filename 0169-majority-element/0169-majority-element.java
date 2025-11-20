@@ -6,6 +6,7 @@ class Solution {
         int n = nums.length;
         return nums[n / 2];
     */
+    
     // Solution using HashMap
         HashMap<Integer, Integer> map = new HashMap<>();
         for(int num : nums){
