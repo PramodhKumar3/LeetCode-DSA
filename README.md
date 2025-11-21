@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
