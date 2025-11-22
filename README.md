@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
