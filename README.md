@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1179-game-play-analysis-i) |
 | [1301-reformat-department-table](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1301-reformat-department-table) |
+| [1517-find-users-with-valid-e-mails](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [3782-find-valid-emails](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3782-find-valid-emails) |
 ## Math
 |  |
