@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
