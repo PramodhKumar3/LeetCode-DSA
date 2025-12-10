@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0118-pascals-triangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
