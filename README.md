@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Array
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
