@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+| [1154-day-of-the-year](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1154-day-of-the-year) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [1154-day-of-the-year](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1154-day-of-the-year) |
 | [3136-valid-word](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3136-valid-word) |
 ## Recursion
 |  |
