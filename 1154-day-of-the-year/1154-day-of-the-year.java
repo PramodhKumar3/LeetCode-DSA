@@ -6,6 +6,9 @@
 // }
 
 class Solution {
+    boolean isLeapYear(int year){
+        return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+    }
     public int dayOfYear(String date) {
         int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         int year = Integer.parseInt(date.substring(0, 4));
@@ -18,8 +21,5 @@ class Solution {
             totalDays += days[i];
         totalDays += day;
         return totalDays;
-    }
-    boolean isLeapYear(int year){
-        return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }
 }
