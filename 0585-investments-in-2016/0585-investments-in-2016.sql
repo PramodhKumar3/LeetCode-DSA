@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 SELECT ROUND(SUM(tiV_2016), 2) AS tiv_2016
 FROM Insurance
 WHERE (lat, lon)
