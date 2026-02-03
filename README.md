@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
