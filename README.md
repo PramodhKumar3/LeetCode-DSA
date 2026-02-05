@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
