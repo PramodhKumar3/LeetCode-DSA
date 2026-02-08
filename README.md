@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1179-game-play-analysis-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1280-students-and-examinations) |
 | [1301-reformat-department-table](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1301-reformat-department-table) |
 | [1341-movie-rating](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1341-movie-rating) |
