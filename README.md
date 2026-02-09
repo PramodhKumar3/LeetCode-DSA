@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Database
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
