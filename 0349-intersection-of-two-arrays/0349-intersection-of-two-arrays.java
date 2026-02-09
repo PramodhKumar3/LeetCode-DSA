@@ -1,4 +1,5 @@
 import java.util.*;
+
 class Solution {
     public void addList(List<Integer> list, int x){
         if(list.isEmpty() || list.get(list.size() - 1) != x)
