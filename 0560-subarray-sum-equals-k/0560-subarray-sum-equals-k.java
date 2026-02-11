@@ -1,5 +1,6 @@
 import java.util.*;
 class Solution {
+//  Brute Solution
     // public int subarraySum(int[] nums, int k){
     //     int maxlen = 0;
     //     for(int i = 0; i < nums.length; i++){
@@ -13,25 +14,7 @@ class Solution {
     //     return maxlen;
     // }
 
-    // public int subarraySum(int[] nums, int k) {
-    //     int maxlen = 0;
-    //     int sum = nums[0];
-    //     int left = 0, right = 0;
-    //     int n = nums.length;
-    //     while(right < n){
-    //         while(left <= right && sum > k){
-    //             sum -= nums[left];
-    //             left++;
-    //         }
-    //         if(sum == k)
-    //             maxlen = Math.max(maxlen, right - left + 1);
-    //         right++;
-    //         if(right < n)
-    //             sum += nums[right];
-    //     }
-    //     return maxlen;
-    // }
-
+//  Optimal Solution
     public int subarraySum(int[] nums, int k) {
         int maxlen = 0;
         int sum = 0;
