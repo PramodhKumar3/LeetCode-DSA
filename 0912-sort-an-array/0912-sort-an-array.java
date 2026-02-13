@@ -1,4 +1,12 @@
 import java.util.*;
+
+// class Solution{
+//     public int[] sortArray(int[] nums){
+//         Arrays.sort(nums);
+//         return nums;
+//     }
+// }
+
 class Solution {
     // Merge Sort -> O(N log N)
     public void merge(int[] nums, int low, int mid, int high){
