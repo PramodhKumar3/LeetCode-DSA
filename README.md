@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -250,8 +254,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
