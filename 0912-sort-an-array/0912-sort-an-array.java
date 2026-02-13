@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     // Merge Sort -> O(N log N)
     public void merge(int[] nums, int low, int mid, int high){
@@ -18,6 +17,7 @@ class Solution {
         for(int i = low; i <= high; i++)
             nums[i] = list.get(i - low);
     }
+
     public void mergesort(int[] nums, int low, int high){
         if(low >= high)
             return;
@@ -26,6 +26,7 @@ class Solution {
         mergesort(nums, mid + 1, high);
         merge(nums, low, mid, high);
     }
+
     public int[] sortArray(int[] nums) {
         mergesort(nums, 0, nums.length - 1);
         return nums;
