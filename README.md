@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0231-power-of-two) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
