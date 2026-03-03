@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -241,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Memoization
