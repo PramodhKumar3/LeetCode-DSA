@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
