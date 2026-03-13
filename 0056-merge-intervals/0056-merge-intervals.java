@@ -1,19 +1,17 @@
 import java.util.*;
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
-        List<int[]> list = new ArrayList<>();
+        Arrays.sort(intervals, (a,b) -> a[0] - b[0]);
+        List<int[]> res = new ArrayList<>();
+        res.add(intervals[0]);
         for(int i = 0; i < intervals.length; i++){
-            int last = list.size() - 1;
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-            if(list.isEmpty() || list.get(last)[1] < start)
-                list.add(new int[]{start, end});
-            else{
-                int[] Last = list.get(last);
-                Last[1] = Math.max(Last[1], end);
-            }
+            int[] lastMerged = res.get(res.size() - 1);
+            int[] current = intervals[i];
+            if(current[0] <= lastMerged[1])
+                lastMerged[1] = Math.max(lastMerged[1], current[1]);
+            else
+                res.add(current);
         }
-        return list.toArray(new int[list.size()][]);
+        return res.toArray(new int[res.size()][]);
     }
 }
