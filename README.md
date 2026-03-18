@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -307,4 +311,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
