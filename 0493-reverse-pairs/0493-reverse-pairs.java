@@ -1,4 +1,18 @@
 import java.util.*;
+// Brute Force --> O(N * N)
+// class Solution{
+//     public int reversePairs(int[] nums) {
+//         int cnt = 0;
+//         for(int i = 0; i < nums.length; i++){
+//             for(int j = i + 1; j < nums.length; j++){
+//                 if(nums[i] > 2L * nums[j])
+//                     cnt++;
+//             }
+//         }
+//         return cnt;
+//     }
+// }
+
 class Solution {
     public static void merge(int[] nums, int low, int mid, int high) {
 		List<Integer> temp = new ArrayList<>();
