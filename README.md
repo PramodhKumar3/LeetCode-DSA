@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/PramodhKumar3/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
