@@ -1,4 +1,5 @@
 class Solution {
+//  Optimal Solution -- O(N)
     public int maxProduct(int[] nums) {
         int maxi = Integer.MIN_VALUE;
         int pre = 1;
