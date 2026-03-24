@@ -1,4 +1,13 @@
 class Solution {
+//  Brute Solution - O(N)
+    // public int searchInsert(int[] nums, int target) {
+    //     for(int i = 0; i < nums.length; i++){
+    //         if(nums[i] >= target)
+    //             return i;
+    //     }
+    //     return nums.length;
+    // }
+//  Optimal Solution - O(log N)
     public int searchInsert(int[] nums, int target) {
         int low = 0;
         int high = nums.length - 1;
