@@ -19,6 +19,7 @@ class Solution {
         return res;
     }
 }
+
 // Second Solution
 // class Solution {
 //     public List<List<Integer>> generate(int numRows) {
